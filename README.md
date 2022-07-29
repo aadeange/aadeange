@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aadeange
 - 👀 I’m interested in marketing, soccer, dogs and coffee.
 - 🌱 I’m currently learning all things GitHub.
-- 💞️ I’m looking to collaborate on storytelling projects.
+- 💞️ I’m looking to collaborate on all things East region, DevOps and marketing.
 - Say Hello!
 
 
