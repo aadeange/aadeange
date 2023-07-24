@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aadeange
 - 👀 I’m interested in marketing, soccer, dogs and coffee.
-- 🌱 I’m currently learning all things GitHub.
+- 🌱 My current role is on the Regional Marketing team focusing on Platform & AI Campaigns and PubSec accounts across AMER
 - 💞️ I’m looking to collaborate on all things East region, DevOps and marketing.
 - Say Hello!
 
