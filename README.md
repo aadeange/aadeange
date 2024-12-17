@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aadeange
 - 👀 I’m interested in marketing, soccer, dogs and coffee.
-- 🌱 My current role is on the Regional Marketing team focusing on Platform & AI Campaigns and PubSec accounts across AMER
-- 💞️ I’m looking to collaborate on all things East region, DevOps and marketing.
+- 🌱 My current role is Regional Marketing Manager for LatCan and US Public Sector 
+- 💞️ I’m looking to collaborate on creating memorable and pipeline impacting programs for our LatCan + US Public Sector accounts.
 - Say Hello!
 
 
